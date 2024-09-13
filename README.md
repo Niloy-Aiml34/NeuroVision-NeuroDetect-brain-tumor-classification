@@ -36,7 +36,7 @@ Welcome to NeuroVision, an innovative project leveraging advanced image processi
 
 ## Authors
 
-- [@Niloy-Aiml34](https://github.com/Niloy-Aiml34)
+- [Niloy-Aiml34](https://github.com/Niloy-Aiml34)
 
 
 ## Link for the dataset
